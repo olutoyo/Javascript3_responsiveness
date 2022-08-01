@@ -1,3 +1,5 @@
+
+@media(max-width: 375px){
 body{
     background-color: black;
     width: 375px;
@@ -52,4 +54,5 @@ body{
     grid-area: u;
     height: 2cm;
     text-align: center;
+}
 }

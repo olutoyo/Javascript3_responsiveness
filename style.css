@@ -1,3 +1,5 @@
+
+@media(max-width: 1440px){
 body{
     background-color: black;
     width: 1440px;
@@ -56,4 +58,4 @@ body{
     height: 2cm;
     text-align: center;
 }
-
+}
