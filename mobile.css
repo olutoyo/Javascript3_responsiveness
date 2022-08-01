@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    width: 1440px;
+    width: 375px;
 }
 
 .table1{
@@ -10,7 +10,7 @@ body{
     margin-left: 10%;
     height: 60vh;
     padding: 5%;
-    background-image: url(images/bg-intro-desktop.png);
+    background-image: url(images/bg-intro-mobile.png);
     background-color: hsl(0, 100%, 74%);
     display: grid;
     grid-template-areas: 
@@ -34,9 +34,6 @@ body{
     grid-area: t2;
 }
 
-/* .form1{
-     
-} */
 
 /* resizedTextbox {width: 100px; height: 20px; padding: 1px} */
 .lower{
@@ -56,4 +53,3 @@ body{
     height: 2cm;
     text-align: center;
 }
-
