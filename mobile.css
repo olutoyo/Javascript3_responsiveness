@@ -6,35 +6,29 @@ body{
 }
 
 .table1{
-    width: 70%;
-    margin-top: 10%;
-    display: flex;
+    width: 100%;
+    /* margin-top: 10%;
     margin-left: 10%;
-    height: 60vh;
+    height: 60vh; */
+    height: 100%;
     padding: 5%;
     background-image: url(images/bg-intro-mobile.png);
     background-color: hsl(0, 100%, 74%);
-    display: grid;
-    grid-template-areas: 
-   "o u"
-   "o t2"
-   }
+ }
 
 .div1 {
-    grid-area: o;
     color: white;
-    padding-top: 20%;
+    
 }
 .table2{
-    height: 40vh;
+    /* height: 40vh;
     margin: auto;
     align-items: center;
     justify-content: center;
-    padding: 5%;
+    padding: 5%; */
     background-color: white;
     border-radius: 3%;
-    grid-area: t2;
-}
+    }
 
 
 /* resizedTextbox {width: 100px; height: 20px; padding: 1px} */
@@ -49,10 +43,9 @@ body{
 .upper{
     background-color: hsl(248, 32%, 49%);
     color: white;
-    width: 10cm;
     border-radius: 5%;
-    grid-area: u;
+    /* width: 10cm;
     height: 2cm;
-    text-align: center;
+    text-align: center; */
 }
 }
